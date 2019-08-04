@@ -1,0 +1,12 @@
+.subtext {
+    text-align: center;
+    font-size: 20px;
+}
+
+.frontimg {
+    transition: transform .25s;
+}
+
+.frontimg:hover {
+    transform: scale(1.1); 
+}

@@ -1,0 +1,15 @@
+.column button {
+    border: 0px solid white;
+    background-color: white;
+}
+
+.title {
+    text-align: center;
+    font-size: 50px;
+    margin-bottom: 0px;
+}
+
+.date {
+    text-align: center;
+    font-size: 20px;
+}

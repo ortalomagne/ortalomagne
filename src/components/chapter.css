@@ -1,0 +1,30 @@
+.page {
+    margin: 0 0;
+    border-top: 2px solid black;
+    overflow: hidden;
+}
+
+.image {
+    float: right;
+    width: 45%;
+    margin: 50px 2.5%;
+}
+
+.text {
+    float: left;
+    width: 45%;
+    margin: 50px 2.5%;
+    font-size: 25px;
+}
+
+@media screen and (max-width: 1250px) {
+    .image {
+        float: none;
+        width: 95%;
+        margin: 20px 2.5%;
+    }
+    .text {
+        float: none;
+        width: 95%;
+    }
+}

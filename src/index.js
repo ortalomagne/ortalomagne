@@ -9,4 +9,8 @@ ReactDOM.render(<App />, document.getElementById('root'));
 // If you want your app to work offline and load faster, you can change
 // unregister() to register() below. Note this comes with some pitfalls.
 // Learn more about service workers: https://bit.ly/CRA-PWA
+
+// {/* <script src="https://www.gstatic.com/firebasejs/6.3.1/firebase-app.js"></script>
+// <script src="https://www.gstatic.com/firebasejs/6.3.1/firebase-auth.js"></script> */}
+
 serviceWorker.unregister();

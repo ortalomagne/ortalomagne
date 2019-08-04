@@ -1,0 +1,28 @@
+.navbar {
+    background-color: white;
+}
+
+.el {
+    color: black;
+    background-color: lightgray;
+    border: 0px solid white;
+    font-size: 35px;
+    width: 50%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    transition: background-color .25s linear;
+}
+
+.el:hover {
+    background-color: lightgray;
+}
+
+#select {
+    background-color: white;
+}
+
+@media screen and (max-width: 800px) {
+    .el {
+        font-size: 25px;
+    }
+}
