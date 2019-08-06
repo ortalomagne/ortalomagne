@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a55c72b4f1f7329f94a5121234730a4e",
+    "revision": "749b8d68aabb6e53b752667b5d0d2046",
     "url": "/ortalomagne/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ortalomagne/static/css/2.9522b9fe.chunk.css"
   },
   {
-    "revision": "591def088c457d4b94fe",
+    "revision": "101afa4ab6026b34c186",
     "url": "/ortalomagne/static/css/main.2ec4d089.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ortalomagne/static/js/2.6099af6a.chunk.js"
   },
   {
-    "revision": "591def088c457d4b94fe",
-    "url": "/ortalomagne/static/js/main.491fa1f6.chunk.js"
+    "revision": "101afa4ab6026b34c186",
+    "url": "/ortalomagne/static/js/main.f97d7512.chunk.js"
   },
   {
     "revision": "def1bfda7f1350668f19",
