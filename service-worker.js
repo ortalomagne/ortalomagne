@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ortalomagne/precache-manifest.59316b4919b16f9ca842396aec8d1208.js"
+  "/ortalomagne/precache-manifest.256eac4a625d2ee3000df0be7c238a82.js"
 );
 
 self.addEventListener('message', (event) => {
