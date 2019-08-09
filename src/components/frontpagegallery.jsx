@@ -13,18 +13,18 @@ class FrontpageGallery extends React.Component {
                 <h1 className="frontheader">Galleries</h1>
                 <div className="row"> 
                     <div className="column">
-                        <Frontimg Image={intern} Text='My Internship' Link='/myinternship' />
+                        <Frontimg Image={intern} Text='My Internship' Link="/myinternship" />
                         <Frontimg Image={mountain} Text='mountain2' Link='/mountain2' />
                     </div>
                     <div className="column">
-                        <Frontimg Image={family} Text='Death Valley' Link='/deathvalley' />
+                        <Frontimg Image={family} Text='Death Valley' Link="/deathvalley" />
                         <Frontimg Image={mountain} Text='mountain3' Link='/mountain3' />
                     </div>
                     <div className="column">
 
                         {/* Text appears under the image on the front page, Link is the route set in App.js */}
 
-                        <Frontimg Image={mountain} Text='Template' Link='/template' />
+                        <Frontimg Image={mountain} Text='Template' Link="/template" />
                         <Frontimg Image={mountain} Text='mountain5' Link='/mountain5' />
                     </div>
                     <div className="column">

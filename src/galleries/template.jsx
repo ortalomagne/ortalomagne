@@ -60,12 +60,9 @@ const storyHeader = [
 ];
 
 const storyText = [
-    'story text, use \ for symbols like \' or \". putting a \ at the end of the line \
-    goes to a new line without affecting what is shown',
-    'story text, use \ for symbols like \' and \\. putting a \ at the end of the line \
-    goes to a new line without affecting what is shown',
-    'story text, use \ for symbols like \' and \\. putting a \ at the end of the line \
-    goes to a new line without affecting what is shown'
+    'story text, use backslash for symbols like quotes. Putting a backslash at the end of the line goes to a new line without affecting what is shown',
+    'story text, use backslash for symbols like quotes. Putting a backslash at the end of the line goes to a new line without affecting what is shown',
+    'story text, use backslash for symbols like quotes. Putting a backslash at the end of the line goes to a new line without affecting what is shown'
 ];
 
 const storyImage = [

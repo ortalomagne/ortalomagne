@@ -7,7 +7,7 @@ class Frontpage extends React.Component {
         return (
             <div className="inline">
                 <div className="wrap fade">
-                    <p>The Ortalo-Magn&eacute; Family<br /><span className="subheader">Some nice sounding subtext</span></p>
+                    <p>The Ortalo-Magn&eacute; Family<br /><span className="subheader">Around the world</span></p>
                 </div>
             </div>
         );

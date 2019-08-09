@@ -55,21 +55,9 @@ const storyHeader = [
 ];
 
 const storyText = [
-    'Lorem ipsum dolor sit amet, delectus salutandi quaerendum vis ut, ex quo case solet elaboraret. \
-    Delenit officiis pri ut. Ea cum docendi detraxit interesset, an usu volutpat expetendis, feugait \
-    vivendum concludaturque his cu. Appareat platonem similique vix no. Ius saepe quidam ea, aperiri \
-    vivendo noluisse eu pro. Adversarium signiferumque mea no, at everti mentitum delicata per. \
-    Congue ocurreret mel cu, ut consul omittam definiebas per, ad aperiri qualisque sed',
-    'Lorem ipsum dolor sit amet, delectus salutandi quaerendum vis ut, ex quo case solet elaboraret. \
-    Delenit officiis pri ut. Ea cum docendi detraxit interesset, an usu volutpat expetendis, feugait \
-    vivendum concludaturque his cu. Appareat platonem similique vix no. Ius saepe quidam ea, aperiri \
-    vivendo noluisse eu pro. Adversarium signiferumque mea no, at everti mentitum delicata per. \
-    Congue ocurreret mel cu, ut consul omittam definiebas per, ad aperiri qualisque sed',
-    'Lorem ipsum dolor sit amet, delectus salutandi quaerendum vis ut, ex quo case solet elaboraret. \
-    Delenit officiis pri ut. Ea cum docendi detraxit interesset, an usu volutpat expetendis, feugait \
-    vivendum concludaturque his cu. Appareat platonem similique vix no. Ius saepe quidam ea, aperiri \
-    vivendo noluisse eu pro. Adversarium signiferumque mea no, at everti mentitum delicata per. \
-    Congue ocurreret mel cu, ut consul omittam definiebas per, ad aperiri qualisque sed'
+    'Lorem ipsum dolor sit amet, delectus salutandi quaerendum vis ut, ex quo case solet elaboraret.',
+    'Lorem ipsum dolor sit amet, delectus salutandi quaerendum vis ut, ex quo case solet elaboraret.',
+    'Lorem ipsum dolor sit amet, delectus salutandi quaerendum vis ut, ex quo case solet elaboraret.'
 ];
 
 const storyImage = [

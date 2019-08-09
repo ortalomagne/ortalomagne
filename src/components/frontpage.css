@@ -23,6 +23,15 @@
     font-size: 40px;
 }
 
+@media screen and (max-width: 800px) {
+    .wrap p {
+        font-size: 75px;
+    }
+    .subheader {
+        font-size: 25px;
+    }
+}
+
 .fade p {
     -webkit-animation: fadein 4s; /* Safari, Chrome and Opera > 12.1 */
        -moz-animation: fadein 4s; /* Firefox < 16 */

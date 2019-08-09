@@ -1,13 +1,14 @@
 import React from 'react';
-import './frontimg.css'
+import { Link } from 'react-router-dom';
+import './frontimg.css';
 
 class Frontimg extends React.Component {
     render() {
         return (
             <div>
-                <a href={this.props.Link}>
+                <Link to={this.props.Link}>
                     <img src={this.props.Image} className="frontimg" alt='' />
-                </a>
+                </Link>
                 <p className="subtext">{this.props.Text}</p>
             </div>
         );
@@ -15,3 +16,4 @@ class Frontimg extends React.Component {
 }
 
 export default Frontimg;
+

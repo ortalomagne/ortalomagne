@@ -46,23 +46,9 @@ const storyHeader = [
 ];
 
 const storyText = [
-    'This summer, I worked as a John Deere IT intern. More specifically, I was working on John Deere \
-    Sales Center as a member of Team DEFCON. JDSC is the website between Deere dealers and their \
-    customers so everything from listing vehicles, to creating quotes, to order management is a part \
-    of the final product. Team DEFCON is officialy a security and code infrastructure team. To put it \
-    in simpler terms, we are the ones who are in charge of making the code work together and keeping it\
-    up and running. My two main projects were writing tests for the code and organizing Deere\'s GitHub. \
-    I also worked on some scripts to automate and speed up my tasks. Pictured is the result of running \
-    one of my scripts which made changes to 82 repositories!',
-    'One of the coolest events I participated in while at Deere was the John Deere Classic. This was my \
-    first ever PGA Tour so I figured I would volunteer as a Marshal to fully experience it. As a Hole 9 \
-    Marshal, I was in charge of holding up the quiet signs whenever the golfers were putting and taking \
-    down the fence when they missed the green so they had a clear shot. Pictured is just a section of the \
-    machines Deere brought to the event, most of the rest is pictured in the gallery pictures.',
-    'Of course I also did some non-Deere related things this summer. A few of my favorites were the Quad \
-    Cities Air Show and Fourth of July weekend. The air show featured several great performers, including \
-    the Blue Angles. On the weekend of the fourth, I went with Cedric back to his house in Chicago and \
-    launched around $500 worth of fireworks!'
+    'This summer, I worked as a John Deere IT intern. More specifically, I was working on John Deere Sales Center as a member of Team DEFCON. JDSC is the website between Deere dealers and their customers so everything from listing vehicles, to creating quotes, to order management is a part of the final product. Team DEFCON is officialy a security and code infrastructure team. To put it in simpler terms, we are the ones who are in charge of making the code work together and keeping it up and running. My two main projects were writing tests for the code and organizing Deere\'s GitHub. I also worked on some scripts to automate and speed up my tasks. Pictured is the result of running one of my scripts which made changes to 82 repositories!',
+    'One of the coolest events I participated in while at Deere was the John Deere Classic. This was my first ever PGA Tour so I figured I would volunteer as a Marshal to fully experience it. As a Hole 9 Marshal, I was in charge of holding up the quiet signs whenever the golfers were putting and taking down the fence when they missed the green so they had a clear shot. Pictured is just a section of the machines Deere brought to the event, most of the rest is pictured in the gallery pictures.',
+    'Of course I also did some non-Deere related things this summer. A few of my favorites were the Quad Cities Air Show and Fourth of July weekend. The air show featured several great performers, including the Blue Angles. On the weekend of the fourth, I went with Cedric back to his house in Chicago and launched around $500 worth of fireworks!'
 ];
 
 const storyImage = [
